@@ -23,7 +23,7 @@ All were successfully completed ,congratulate !
 ## mat2nii  
 root_path:  
   __PLGG001  
-    __******.mat  
+    __* * * * * * .mat  
     ——"******".mat   
   __PLGG002  
     __******.mat  
