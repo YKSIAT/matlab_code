@@ -24,30 +24,26 @@ All were successfully completed ,congratulate !
 root_path:  
   __PLGG001  
     __* * * * * * .mat  
-    ——"******".mat   
+    ——* * * * * * .mat   
   __PLGG002  
-    __******.mat  
-    ——******.mat  
+    __* * * * * * .mat  
+    ——* * * * * * .mat  
 
-  __PLGG003  
-    __******.mat  
-    ——******.mat
-    
-    
+
   reault:  
   root_path:  
   __PLGG001  
     __label_nii  
-      __******.nii  
-      __******.nii  
-    __******.mat  
-    ——******.mat  
+      __* * * * * * .nii  
+      __* * * * * * .nii  
+    __* * * * * * .mat  
+    ——* * * * * * .mat  
   __PLGG002  
     __label_nii  
-      __******.nii  
-      __******.nii  
-    __******.mat  
-    ——******.mat  
+      __* * * * * * .nii  
+      __* * * * * * .nii  
+    __* * * * * * .mat  
+    ——* * * * * * .mat  
 
     
   
